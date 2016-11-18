@@ -1,0 +1,55 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 70px;
+    
+}
+.vcard {
+    width: 320px;
+    height: 400px;
+    background-size: 320px;
+    background-repeat: no-repeat;
+    background-color: #30556c;
+    border-radius: 15px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+    .vcard .ion-android-contacts {
+        color: cyan;
+        font-size: 100px;                
+        display: inline-block;
+        margin-top: 30px;
+    }
+
+        .vcard ul {
+             margin: 0 auto;
+        }
+
+        .vcard a{
+            background-color: #7e9fb4;
+            color: #fff;
+            padding: 10px 40px;
+            margin-top: 15px;
+            display: inline-block;
+            border-radius: 5px;
+            text-decoration: none;
+            text-transform: uppercase;
+            transition: 1s background-color linear;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
